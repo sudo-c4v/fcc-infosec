@@ -1,5 +1,4 @@
-const express = require('express');
-const express = require('helmet');
+const express = require('express', 'helmet');
 const app = express();
 
 
